@@ -13,3 +13,5 @@ def path_a():
     print("Random number path reached!")
     custom_string = str(random.randint(10,1000))
     return "<p>Hello, {}</p>".format(custom_string)
+
+# learning: it takes very little code to build this using flask/python!
